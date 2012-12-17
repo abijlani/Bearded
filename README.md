@@ -1,4 +1,4 @@
-Bearded
+bearded
 =======
 
-Bearded is a application to teach how to merge two images and use the social framework. 
+A fun app that shows you how to blend two image views and share it using the Social framework
